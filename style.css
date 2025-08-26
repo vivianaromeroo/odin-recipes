@@ -1,0 +1,30 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p, ul, ol {
+    font-size: 20px;
+    height: auto;
+    width: 1000px;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+}
+
+button {
+    font-size: 30px;
+}
